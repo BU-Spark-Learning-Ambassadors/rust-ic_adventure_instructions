@@ -6,7 +6,8 @@
 ## Difficulty = ⭐️⭐️
 
 ## What you will build:
-- Enhance the Rustic Adventure Game by adding features such as an inventory system, random events, and a scoring mechanism.
+- Design a text-based adventure game in Rust where players navigate through different scenarios, make choices, and face consequences. Use enums and pattern matching to represent game states.
+- Also enhance the Rustic Adventure Game by adding features such as an inventory system, random events, and a scoring mechanism.
 
 ## How you will build it:
 - Read the provided Rust code with detailed comments and pseudocode.
