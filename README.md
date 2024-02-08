@@ -1,6 +1,3 @@
-# rust-ic_adventures
-text-based adventure game in Rust where players navigate through different scenarios and make choices
-
 # Rustic Adventure Game
 
 ## What is a micro-challenge?
